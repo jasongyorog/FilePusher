@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">File Pusher</string>
+
+    <string name="instructions">A scheduled job defines a local folder (to be pushed), a folder on an SMB share (where it gets pushed), a schedule, and other optional flags.</string>
+    <string name="add_schedule">Add Push Job</string>
+    <string name="schedules_found">Scheduled Jobs found:</string>
+    <string name="edit_schedule">Edit \'%1$s\'</string>
+    <string name="delete_schedules">Delete All Schedules</string>
+    <string name="view_logs">View Logs</string>
+
+    <string name="job_name">Job Name</string>
+    <string name="browse_local">Browse Local</string>
+    <string name="browse_remote">Browse Remote</string>
+    <string name="when_charging">Only copy files if power is connected</string>
+    <string name="save_schedule">Save Schedule</string>
+    <string name="save_and_run_schedule">Save Schedule and Run Now</string>
+
+    <string name="choose_path">Choose this path</string>
+    <string name="go_up">Go up a directory</string>
+
+    <string name="smb_path">smb://%1$s/%2$s/%3$s</string>
+    <string name="save_share_data">Save Share Data</string>
+
+    <string name="log_dir_root">FilePusher_logs</string>
+    <string name="log_dir">run_%1$s_at_%2$d</string>
+    <string name="debug_log">debug.log</string>
+    <string name="user_log">user.log</string>
+    <string name="files_expected">files_expected.txt</string>
+    <string name="dir_perms">dir_perms.txt</string>
+    <string name="debug_smbworker">debug_smbworker_%1$s_at_%2$d.txt</string>
+
+    <string name="recursive_report">recursive_report_at_%1$d</string>
+
+    <string name="browse_path">Browse to a path on this share</string>
+    <string name="enter_share_data">Enter share data:</string>
+    <string name="please_wait">Please wait…</string>
+
+    <string name="destination_name">Destination Name</string>
+    <string name="hostname">hostname</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sharename">share name</string>
+
+</resources>
